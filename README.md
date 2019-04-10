@@ -1,4 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# [Sebastian Vega](http://seba2305.github.io/)
 
 
 ## Copyright and License
